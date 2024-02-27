@@ -1,2 +1,2 @@
-*.mlx linguist-language=Java
-*.m linguist-language=Java
+*.mlx linguist-language=Matlab
+*.m linguist-language=Matlab
